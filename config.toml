@@ -1,4 +1,5 @@
-baseURL = "https://sraallmeida.dev/"
+# baseURL = "https://sraallmeida.dev/"
+baseURL = "https://friendly-torvalds-7bae7c.netlify.app/"
 
 languageCode = "en"
 DefaultContentLanguage = "en"
